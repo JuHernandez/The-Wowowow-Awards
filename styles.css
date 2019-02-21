@@ -1,0 +1,41 @@
+img {
+    width: 300px;
+}
+
+body {
+    text-align: center;
+    background-color: lightblue;
+    background-image: url("https://i.ytimg.com/vi/Q-hj0jQ_MUw/maxresdefault.jpg");
+}
+
+h2 {
+    font-size: 60px;
+}
+
+.bestMovie {
+    color: #f442a1;
+    font-family: 'Bungee', cursive;
+}
+
+.bestArtist {
+    color: #c741f4;
+    font-family: 'Bungee', cursive;
+}
+
+.bestSport {
+    color: #41b8f4;
+    font-family: 'Bungee', cursive;
+}
+
+.bestClass {
+    color: #41f4df;
+    font-family: 'Bungee', cursive;
+}
+
+h1 {
+    color: #eef441;
+}
+
+h1 {
+    display: block;
+}
